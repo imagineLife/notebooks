@@ -7,3 +7,5 @@ working with notebooks
 ## Linear Regresion
 
 ## Polynomial Regresion
+
+## Multiple Regresion
