@@ -15,3 +15,5 @@ working with notebooks
 ## T-Test & P-Value
 
 ## KFold Cross-Validation
+
+## Naive Bayes
