@@ -17,3 +17,5 @@ working with notebooks
 ## KFold Cross-Validation
 
 ## Naive Bayes
+
+## KMeans
