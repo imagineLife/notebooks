@@ -21,3 +21,7 @@ working with notebooks
 ## KMeans
 
 ## SVC
+
+## Similar Movies
+
+## Similar Movies With Genres
