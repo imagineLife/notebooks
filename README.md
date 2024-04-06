@@ -19,3 +19,5 @@ working with notebooks
 ## Naive Bayes
 
 ## KMeans
+
+## SVC
