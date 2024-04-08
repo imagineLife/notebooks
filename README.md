@@ -25,3 +25,5 @@ working with notebooks
 ## Similar Movies
 
 ## Similar Movies With Genres
+
+## Item-Based Collaborative Filtering
